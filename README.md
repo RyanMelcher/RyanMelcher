@@ -14,20 +14,19 @@
 
 <pre>
  ~> <strong>cat note.txt</strong>
-1. If I'm not responding to any of your PRs or issues,
-   feel free to remind me via <a href="mailto:dagoober.dev@gmail.com">email</a>.
+1. Feel free to remind me via <a href="mailto:dagoober.dev@gmail.com">email</a>.
 2. I use GitLab (primarily) to host my repositories.
    Most of them are private. Just assume the worst.
  
  ~> <strong>ls socials</strong>
  LinkedIn: <a rel=me href="https://linkedin.com/in/rmelcher">rmelcher</a>
-  X: <a rel=me href="https://x.com/goobware">goobware</a>
+ X: <a rel=me href="https://x.com/goobware">goobware</a>
 
 
  ~> <strong>finger ryan</strong>
 Login: ryan                             Name: ryan
 Directory: /home/ryan                   Shell: /usr/bin/starship
-Project:
+Project(s):
   - <a href="https://github.com/RyanMelcher/ryanmelcher.dev">ryanmelcher.dev</a>
   - <a href="https://github.com/RyanMelcher/ryan.diy">ryan.diy</a>
   - <a href="https://github.com/RyanMelcher/goobware.com">goobware.com</a>
