@@ -14,8 +14,8 @@
 
 <pre>
  ~> <strong>cat note.txt</strong>
-1. Feel free to reach out via <a href="mailto:dagoober.dev@gmail.com">email</a>.
-2. I use GitLab (primarily) to host my repositories.
+ 1. Feel free to reach out via <a href="mailto:dagoober.dev@gmail.com">email</a>.
+ 2. I use GitLab (primarily) to host my repositories.
    Most of them are private. Just assume the worst.
  
  ~> <strong>ls socials</strong>
@@ -24,14 +24,14 @@
 
 
  ~> <strong>finger ryan</strong>
-Login: ryan                             Name: ryan
-Directory: /home/ryan                   Shell: /usr/bin/starship
-Project(s):
-  - <a href="https://github.com/RyanMelcher/ryanmelcher.dev">ryanmelcher.dev</a>
-  - <a href="https://github.com/RyanMelcher/ryan.diy">ryan.diy</a>
-  - <a href="https://github.com/RyanMelcher/goobware.com">goobware.com</a>
-  - Drafting (b|gem|ph|sh)log posts - but not publishing :>
-  - Working on <a href="https://github.com/RyanMelcher/habitheatmap">Habit Heatmap</a> (terminal habit heatmap) and <a href="https://github.com/RyanMelcher/blissministires.org">B.L.I.S.S. Ministires</a> (minecraft server & website).
-Plan:
-  Learning
+ Login: ryan                             Name: ryan
+ Directory: /home/ryan                   Shell: /usr/bin/starship
+ Project(s):
+   - <a href="https://ryanmelcher.dev">ryanmelcher.dev</a>
+   - <a href="https://maxroofrepair.com">maxroofrepair.com</a>
+   - ryan.diy [under construction, moving to Hugo]
+   - goobware.com [under construction, moving to Hugo]
+   - Working on Habit Heatmap (terminal habit heatmap) and B.L.I.S.S. Ministries (self-hosted minecraft server & website).
+ Plan:
+   Keysmash until the apps work
 </pre>
