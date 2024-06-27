@@ -14,7 +14,7 @@
 
 <pre>
  ~> <strong>cat note.txt</strong>
-1. Feel free to remind me via <a href="mailto:dagoober.dev@gmail.com">email</a>.
+1. Feel free to reach out via <a href="mailto:dagoober.dev@gmail.com">email</a>.
 2. I use GitLab (primarily) to host my repositories.
    Most of them are private. Just assume the worst.
  
