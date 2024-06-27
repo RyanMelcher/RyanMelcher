@@ -19,8 +19,8 @@
    Most of them are private. Just assume the worst.
  
  ~> <strong>ls socials</strong>
- LinkedIn: <a rel=me href="https://linkedin.com/in/rmelcher">rmelcher</a>
- X: <a rel=me href="https://x.com/goobware">goobware</a>
+ LinkedIn: <a rel=me href="https://linkedin.com/in/rpmelcher" _target="default">rpmelcher</a>
+ X: <a rel=me href="https://x.com/goobware" _target="default">goobware</a>
 
 
  ~> <strong>finger ryan</strong>
